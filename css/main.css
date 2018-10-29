@@ -9,14 +9,13 @@ html {
 }
 
 body {
-  margin: 0
+  margin: 0;
 }
 
 img {
   display: block;
   width: 100%;
 }
-
 
 .footer a {
   color: #003442;
@@ -45,7 +44,6 @@ img {
   padding-left: 0;
   list-style-type: none;
 }
-
 
 .links {
   padding: 0 1rem;
